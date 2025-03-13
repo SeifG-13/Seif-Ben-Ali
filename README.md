@@ -23,35 +23,15 @@
 
 ## 📱 Mes projets
 
-### 🏠 Smart Home
-Application mobile pour la gestion à distance d'une maison intelligente développée pendant mon stage chez Get Wireless. Intègre des caméras de sécurité, un assistant vocal, et des systèmes domotiques.
-- Technologies: Flutter, Firebase, MQTT, Arduino
-- Rôle: Développeur full-stack
-
 ### 🌾 AgriTrace
 Solution blockchain pour la traçabilité de produits agricoles, assurant transparence et authenticité à chaque étape de la chaîne d'approvisionnement.
 - Technologies: Hyperledger Fabric, Node.js, React
 - Rôle: Chef de projet et développeur blockchain
 
-### 🖼️ Wireframe
-Outil innovant générant des wireframes et des prototypes fonctionnels de pages web à partir de photos.
-- Technologies: Python, OpenCV, TensorFlow, React
-- Rôle: Développeur principal et concepteur UI/UX
-
-### 🛒 E-Commerce
-Application développée pendant mon stage chez AURES pour faciliter les achats en ligne.
-- Technologies: MERN Stack (MongoDB, Express, React, Node.js)
+### 🏠 Smart Home
+Application mobile pour la gestion à distance d'une maison intelligente développée pendant mon stage chez Get Wireless. Intègre des caméras de sécurité, un assistant vocal, et des systèmes domotiques.
+- Technologies: Flutter, Firebase, MQTT, Arduino
 - Rôle: Développeur full-stack
-
-### 🤖 ChatBot
-Bot conversationnel interactif répondant aux questions en temps réel.
-- Technologies: NLP, Python, Flask, React
-- Rôle: Développeur backend et NLP
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifG-13&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 📫 Contactez-moi
 <div align="center">
