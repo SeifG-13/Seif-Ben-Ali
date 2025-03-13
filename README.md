@@ -50,8 +50,8 @@ Bot conversationnel interactif répondant aux questions en temps réel.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seifbenali&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seifbenali&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeifG-13&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifG-13&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📫 Contactez-moi
