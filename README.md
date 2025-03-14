@@ -1,15 +1,15 @@
-# <div align="center">👋 Salut, je suis Seif Ben Ali</div>
+# <div align="center">👋 Hi, I'm Seif Ben Ali</div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&width=435&lines=Computer+Science+Engineer;IoT+Specialist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing SVG" /></div>
 
-## 👨‍💻 À propos de moi
-- 🎓 Étudiant en génie informatique à l'École Nationale d'Informatique (ENSI), Tunisie
-- 🔭 Je travaille actuellement sur **AgriTrace** - Une solution blockchain pour la traçabilité agricole
-- 🌱 J'apprends **Hyperledger Fabric** et les technologies blockchain
-- 🚀 Passionné par l'IoT, les systèmes embarqués et le développement full-stack
-- 💻 Développeur amateur de jeux vidéo et créateur de contenu multimédia
-- ⚽ Passionné de football
+## 👨‍💻 About Me
+- 🎓 Computer Engineering student at the National School of Computer Science (ENSI), Tunisia
+- 🔭 Currently working on **AgriTrace** - A blockchain solution for agricultural traceability
+- 🌱 Learning **Hyperledger Fabric** and blockchain technologies
+- 🚀 Passionate about IoT, embedded systems, and full-stack development
+- 💻 Amateur game developer and multimedia content creator
+- ⚽ Football enthusiast
 
-## 🔧 Technologies & Outils
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -21,19 +21,18 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 
-## 📱 Mes projets
-
+## 📱 My Projects
 ### 🌾 AgriTrace
-Solution blockchain pour la traçabilité de produits agricoles, assurant transparence et authenticité à chaque étape de la chaîne d'approvisionnement.
+Blockchain solution for agricultural product traceability, ensuring transparency and authenticity at each step of the supply chain.
 - Technologies: Hyperledger Fabric, Node.js, React
-- Rôle: Chef de projet et développeur blockchain
+- Role: Project manager and blockchain developer
 
 ### 🏠 Smart Home
-Application mobile pour la gestion à distance d'une maison intelligente développée pendant mon stage chez Get Wireless. Intègre des caméras de sécurité, un assistant vocal, et des systèmes domotiques.
+Mobile application for remote management of a smart home developed during my internship at Get Wireless. Integrates security cameras, voice assistant, and home automation systems.
 - Technologies: Flutter, Firebase, MQTT, Arduino
-- Rôle: Développeur full-stack
+- Role: Full-stack developer
 
-## 📫 Contactez-moi
+## 📫 Contact Me
 <div align="center">
   <a href="https://linkedin.com/in/seif-ben-ali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,5 +43,4 @@ Application mobile pour la gestion à distance d'une maison intelligente dévelo
 </div>
 
 ---
-
-⭐️ Réalisé avec passion par Seif Ben Ali ⭐️
+⭐️ Created with passion by Seif Ben Ali ⭐️
