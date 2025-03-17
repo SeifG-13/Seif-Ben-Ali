@@ -24,7 +24,7 @@
 ## 📱 My Projects
 ### 🌾 AgriTrace
 Blockchain solution for agricultural product traceability, ensuring transparency and authenticity at each step of the supply chain.
-- Technologies: Hyperledger Fabric, Node.js, React
+- Technologies: Hyperledger Fabric, Go , React
 - Role: Project manager and blockchain developer
 
 ### 🏠 Smart Home
